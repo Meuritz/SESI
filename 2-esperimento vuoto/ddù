@@ -1,0 +1,145 @@
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Date Time
+1 T Shroud
+2 T Cold or Radiat.Plate
+3 T safety discharge
+4 High stage suction pressure
+5 High stage discharge pressure
+6 Low stage suction pressure
+7 Low stage discharge pressure
+8 T Shroud Interm. Fluid
+9 T Interm. Fluid Cold Plate
+10 T regulation-Shroud (6)
+11 T regulation-Cold Plate 1 (7)
+12 T regulation-Cold Plate 2 (8)
+13 T regulation-Cold Plate 3 (9)
+14 T monitor-Cold Plate 1 (10)
+15 T monitor-Cold Plate 2 (11)
+16 T monitor-Cold Plate 3 (12)
+17 P Full Range 1 chamber-ITR90
+18 P Full Range 2 chamber-PTR90
+19 P Chamber
+20 T Cryo 2
+21 T Cryo 1
+22 P Pirani Cryo
+23 T mon. Pt100 Shroud (1)
+24 T mon. Pt100 Shroud (2)
+25 T mon. Pt100 Shroud (3)
+26 T mon. Pt100 Shroud (4)
+27 T reg. Radiative Plate (5)
+28 P LN2 line
+29 P GN2 line
+30 T Shroud Setpoint
+31 T Cold/Radiat.Plate Setpoint
+32 Regulator 0 current set
+33 Regulator 1 current set
+34 Regulator 0 output
+35 Regulator 0 P output
+36 Regulator 0 I output
+37 Regulator 0 D output
+38 Regulator 1 output
+39 Regulator 1 P output
+40 Regulator 1 I output
+41 Regulator 1 D output
+42 Regulator 2 output
+43 Regulator 2 P output
+44 Regulator 2 I output
+45 Regulator 2 D output
+46 Regulator 3 output
+47 Regulator 3 P output
+48 Regulator 3 I output
+49 Regulator 3 D output
+50 Run
+51 Program mode
+52 Primary vacuum pump
+53 Primary vacuum (Valve)
+54 Cryo preparation
+55 High vacuum
+56 Cryo regeneration
+57 Venting
+58 Sel.Sensor:Sns1(OFF)/Sns2(ON)
+59 Ion gauge degassing
+60 
+61 
+62 
+63 
+64 
+65 
+66 
+67 
+68 Segment
+69 Alarm
+70 Timeout
+
